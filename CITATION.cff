@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "ML-cardio: Cardiovascular Disease Risk Assessment"
+message: "If you use this project, please cite it."
+type: software
+authors:
+  - family-names: "<YOUR SURNAME>"
+    given-names: "<YOUR FIRST NAME>"
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/ML-cardio"
+license: MIT
